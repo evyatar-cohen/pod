@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<courses>
+  <course id="1" code="101">
+    <title>חדשנות בלמידה במאה ה-21</title>
+    <author>ד"ר זיתוני</author>
+    <logo>1.jpeg</logo>
+    <description>הצטרפו אלינו לפודקאסט המציג את היכולות שלנו לבצע למידה אקטיבית באמצעות שמע בלבד. תנו לאוזניים שלכם לקחת אתכם איתי ותבינו שה אולי לא כל כך מסובך כמו שזה נשמע</description>
+    <lessons>
+       <lesson id="1">
+         <audio duration="03:02">1</audio>
+         <title>מה שלא ידעתם על מציאות רבודה</title>
+         <description>מציאות רבודה, איפה זה פוגש אותנו? מה ההיסטוריה</description>
+       </lesson>
+      <lesson id="2">
+        <audio duration="03:02">1</audio>
+        <title>שירותי ענן, טוב ללמידה?</title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+      <lesson id="3">
+        <audio duration="03:02">1</audio>
+        <title>למידה אפקטיבית בעזרת סאונד</title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+      <lesson id="4">
+        <audio duration="03:02">1</audio>
+        <title>הלומדה הראשונה בעולם</title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+      <lesson id="5">
+        <audio duration="03:02">1</audio>
+        <title>גוגל הפכו אותנו לסטודנטים טובים</title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+      <lesson id="6">
+        <audio duration="03:02">1</audio>
+        <title>פודקאסטים, רק ההתחלה</title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+      <lesson id="7">
+        <audio duration="03:02">1</audio>
+        <title>מציאות מדומה והפוטנציאל הגלום </title>
+        <description>גשדגשדגדש</description>
+      </lesson>
+    </lessons>
+  </course>
+</courses>
+
